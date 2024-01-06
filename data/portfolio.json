@@ -2,19 +2,19 @@
     {
         "image": "image1.png",
         "title": "Booki",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "text": "Landing page pour une agence de location de logements.</br> Programmé en html et css",
+        "link": "https://vincedecompiegne.github.io/OC-P3-Booki/"
     },
     {
         "image": "image2.png",
-        "title": "Mon Vieux grimoire",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "title": "Sophie Bluel",
+        "text": "Portfolio de Sophie Bluel.</br> Programmé en JavaScript Vanilla et testé avec Cypress.",
+        "link": "https://vincedecompiegne.github.io/OC-P7-Portfolio/"
     },
     {
         "image": "image3.png",
         "title": "Kasa",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "text": "Site de location d'appartement.</Br> Programmé avec les librairies React et Route et testé avec Jest.",
+        "link": "https://vincedecompiegne.github.io/OC-P8-Kasa/"
     }
 ]
